@@ -1,0 +1,12 @@
+Hello this is a test
+
+editing with nano!
+
+hi! i'm writing to testdoc.txt via command line.
+this is using the cat and wonky redirection arrows
+probably should use vi or something
+is there nano?
+
+
+
+there is nano
